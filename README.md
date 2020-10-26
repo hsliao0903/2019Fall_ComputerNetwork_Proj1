@@ -11,3 +11,6 @@ Server: Simulating a FTP server, which could receive files from clients.
 Client: GET: Download a file from server.
 	PUT: Upload  a file from server.
 	Dir: List all the files in the sever.
+
+
+
